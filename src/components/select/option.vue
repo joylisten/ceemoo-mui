@@ -2,7 +2,7 @@
     <li :class="classes" @click.stop="select" @mouseout.stop="blur" v-show="!hidden"><slot>{{ showLabel }}</slot></li>
 </template>
 <script>
-    const prefixCls = 'ivu-select-item';
+    const prefixCls = 'cm-select-item';
 
     export default {
         props: {

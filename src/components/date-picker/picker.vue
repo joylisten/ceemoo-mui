@@ -32,7 +32,7 @@
     import { oneOf } from '../../utils/assist';
     import { formatDate, parseDate } from './util';
 
-    const prefixCls = 'ivu-date-picker';
+    const prefixCls = 'cm-date-picker';
 
     const DEFAULT_FORMATS = {
         date: 'yyyy-MM-dd',

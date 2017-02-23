@@ -5,7 +5,7 @@ import iButton from '../button/button.vue';
 import { camelcaseToHyphen } from '../../utils/assist';
 import { t } from '../../locale';
 
-const prefixCls = 'ivu-modal-confirm';
+const prefixCls = 'cm-modal-confirm';
 
 Modal.newInstance = properties => {
     const _props = properties || {};
@@ -60,8 +60,8 @@ Modal.newInstance = properties => {
             },
             iconNameCls () {
                 return [
-                    'ivu-icon',
-                    `ivu-icon-${this.iconName}`
+                    'cm-icon',
+                    `cm-icon-${this.iconName}`
                 ];
             }
         },

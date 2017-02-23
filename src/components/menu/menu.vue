@@ -4,7 +4,7 @@
 <script>
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-menu';
+    const prefixCls = 'cm-menu';
 
     export default {
         props: {

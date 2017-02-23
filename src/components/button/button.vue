@@ -1,15 +1,15 @@
 <template>
     <button :type="htmlType" :class="classes" :disabled="disabled">
-        <Icon class="ivu-load-loop" type="load-c" v-if="loading"></Icon>
+        <Icon class="cm-load-loop" type="load-c" v-if="loading"></Icon>
         <Icon :type="icon" v-if="icon && !loading"></Icon>
-        <span v-if="showSlot" ref:slot><slot></slot></span>
+        <span v-if="showSlot" v-el:slot><slot></slot></span>
     </button>
 </template>
 <script>
     import Icon from '../icon';
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-btn';
+    const prefixCls = 'cm-btn';
 
     export default {
         components: { Icon },

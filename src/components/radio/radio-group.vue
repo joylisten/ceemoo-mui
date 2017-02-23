@@ -6,7 +6,7 @@
 <script>
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-radio-group';
+    const prefixCls = 'cm-radio-group';
 
     export default {
         name: 'radioGroup',

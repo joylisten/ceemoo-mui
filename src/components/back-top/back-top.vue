@@ -2,14 +2,14 @@
     <div :class="classes" :style="styles" @click="back">
         <slot>
             <div :class="innerClasses">
-                <i class="ivu-icon ivu-icon-chevron-up"></i>
+                <i class="cm-icon cm-icon-chevron-up"></i>
             </div>
         </slot>
     </div>
 </template>
 <script>
     import { scrollTop } from '../../utils/assist';
-    const prefixCls = 'ivu-back-top';
+    const prefixCls = 'cm-back-top';
 
     export default {
         props: {

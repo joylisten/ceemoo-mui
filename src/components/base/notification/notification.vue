@@ -15,7 +15,7 @@
 <script>
     import Notice from './notice.vue';
 
-    const prefixCls = 'ivu-notification';
+    const prefixCls = 'cm-notification';
     let seed = 0;
     const now = Date.now();
 

@@ -30,7 +30,7 @@
     import Checkbox from '../checkbox/checkbox.vue';
     import { t } from '../../locale';
 
-    const prefixCls = 'ivu-tree';
+    const prefixCls = 'cm-tree';
 
     export default {
         name: 'tree',

@@ -2,7 +2,7 @@
     <div :class="prefixCls" v-bind:style="styles"><slot></slot></div>
 </template>
 <script>
-    const prefixCls = 'ivu-carousel-item';
+    const prefixCls = 'cm-carousel-item';
 
     export default {
         componentName: 'carousel-item',

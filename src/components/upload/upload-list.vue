@@ -24,7 +24,7 @@
 <script>
     import Icon from '../icon/icon.vue';
     import Progress from '../progress/progress.vue';
-    const prefixCls = 'ivu-upload';
+    const prefixCls = 'cm-upload';
 
     export default {
         components: { Icon, Progress },

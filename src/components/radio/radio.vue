@@ -12,7 +12,7 @@
     </label>
 </template>
 <script>
-    const prefixCls = 'ivu-radio';
+    const prefixCls = 'cm-radio';
 
     export default {
         props: {

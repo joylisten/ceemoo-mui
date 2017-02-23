@@ -40,7 +40,7 @@
     import Operation from './operation.vue';
     import { t } from '../../locale';
 
-    const prefixCls = 'ivu-transfer';
+    const prefixCls = 'cm-transfer';
 
     export default {
         components: { List, Operation },

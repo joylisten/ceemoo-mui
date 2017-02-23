@@ -19,7 +19,7 @@
     import Icon from '../icon/icon.vue';
     import { getStyle } from '../../utils/assist';
 
-    const prefixCls = 'ivu-menu';
+    const prefixCls = 'cm-menu';
 
     export default {
         name: 'Submenu',

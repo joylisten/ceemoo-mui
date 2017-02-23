@@ -11,8 +11,8 @@
                         <template v-else>
                             {{{ renderHeader(column, $index) }}}
                             <span :class="[prefixCls + '-sort']" v-if="column.sortable">
-                                <i class="ivu-icon ivu-icon-arrow-up-b" :class="{on: column._sortType === 'asc'}" @click="handleSort($index, 'asc')"></i>
-                                <i class="ivu-icon ivu-icon-arrow-down-b" :class="{on: column._sortType === 'desc'}" @click="handleSort($index, 'desc')"></i>
+                                <i class="cm-icon cm-icon-arrow-up-b" :class="{on: column._sortType === 'asc'}" @click="handleSort($index, 'asc')"></i>
+                                <i class="cm-icon cm-icon-arrow-down-b" :class="{on: column._sortType === 'desc'}" @click="handleSort($index, 'desc')"></i>
                             </span>
                             <Poptip
                                 v-if="isPopperShow(column)"
@@ -20,7 +20,7 @@
                                 placement="bottom"
                                 @on-popper-hide="handleFilterHide($index)">
                                 <span :class="[prefixCls + '-filter']">
-                                    <i class="ivu-icon ivu-icon-funnel" :class="{on: column._isFiltered}"></i>
+                                    <i class="cm-icon cm-icon-funnel" :class="{on: column._isFiltered}"></i>
                                 </span>
                                 <div slot="content" :class="[prefixCls + '-filter-list']" v-if="column._filterMultiple">
                                     <div :class="[prefixCls + '-filter-list-item']">

@@ -1,8 +1,8 @@
 <template>
     <div :class="classes" :style="style" :transition="transitionName">
-        <div :class="[baseClass + '-content']" ref:content v-html="content"></div>
+        <div :class="[baseClass + '-content']" v-el:content>{{{ content }}}</div>
         <a :class="[baseClass + '-close']" @click="close" v-if="closable">
-            <i class="ivu-icon ivu-icon-ios-close-empty"></i>
+            <i class="cm-icon cm-icon-ios-close-empty"></i>
         </a>
     </div>
 </template>
@@ -93,7 +93,7 @@
             }
 
             // check if with desc in Notice component
-            if (this.prefixCls === 'ivu-notice') {
+            if (this.prefixCls === 'cm-notice') {
                 this.withDesc = this.$els.content.querySelectorAll(`.${this.prefixCls}-desc`)[0].innerHTML !== '';
             }
         },

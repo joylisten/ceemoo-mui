@@ -4,7 +4,7 @@
     </div>
 </template>
 <script>
-    const prefixCls = 'ivu-breadcrumb';
+    const prefixCls = 'cm-breadcrumb';
 
     export default {
         props: {

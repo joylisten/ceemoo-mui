@@ -33,7 +33,7 @@
     import clickoutside from '../../directives/clickoutside';
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-cascader';
+    const prefixCls = 'cm-cascader';
 
     export default {
         components: { iInput, Dropdown, Icon, Caspanel },

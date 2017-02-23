@@ -2,8 +2,8 @@
     <div :class="wrapClasses">
         <template v-if="type !== 'textarea'">
             <div :class="[prefixCls + '-group-prepend']" v-if="prepend" v-show="slotReady" v-el:prepend><slot name="prepend"></slot></div>
-            <i class="ivu-icon" :class="['ivu-icon-' + icon, prefixCls + '-icon']" v-if="icon" @click="handleIconClick"></i>
-            <i class="ivu-icon ivu-icon-load-c ivu-load-loop" :class="[prefixCls + '-icon', prefixCls + '-icon-validate']" v-else transition="fade"></i>
+            <i class="cm-icon" :class="['cm-icon-' + icon, prefixCls + '-icon']" v-if="icon" @click="handleIconClick"></i>
+            <i class="cm-icon cm-icon-load-c cm-load-loop" :class="[prefixCls + '-icon', prefixCls + '-icon-validate']" v-else transition="fade"></i>
             <input
                 :type="type"
                 :class="inputClasses"
@@ -43,7 +43,7 @@
     import { oneOf } from '../../utils/assist';
     import calcTextareaHeight from '../../utils/calcTextareaHeight';
 
-    const prefixCls = 'ivu-input';
+    const prefixCls = 'cm-input';
 
     export default {
         props: {

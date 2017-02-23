@@ -1,6 +1,6 @@
 <template>
     <div :class="classes">
-        <label :class="[prefixCls + '-label']" :style="labelStyles" v-if="label">{{ label }}</label>
+        <label :class="[prefixCls + '-label']" :style="labelStyles" v-if="label"><slot name="label">{{ label }}</slot></label>
         <div :class="[prefixCls + '-content']" :style="contentStyles">
             <slot></slot>
             <div transition="fade" :class="[prefixCls + '-error-tip']" v-if="validateState === 'error' && showMessage && form.showMessage">{{ validateMessage }}</div>
@@ -12,7 +12,7 @@
 
     import AsyncValidator from 'async-validator';
 
-    const prefixCls = 'ivu-form-item';
+    const prefixCls = 'cm-form-item';
 
     function getPropByPath(obj, path) {
         let tempObj = obj;
@@ -189,7 +189,7 @@
                 if (Array.isArray(value) && value.length > 0) {
                     this.validateDisabled = true;
                     prop.o[prop.k] = [];
-                } else if (value) {
+                } else if (value !== this.initialValue) {
                     this.validateDisabled = true;
                     prop.o[prop.k] = this.initialValue;
                 }

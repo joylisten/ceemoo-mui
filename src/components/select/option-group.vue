@@ -7,7 +7,7 @@
     </li>
 </template>
 <script>
-    const prefixCls = 'ivu-select-group';
+    const prefixCls = 'cm-select-group';
 
     export default {
         props: {
@@ -25,7 +25,7 @@
         methods: {
             queryChange () {
                 this.$nextTick(() => {
-                    const options = this.$els.options.querySelectorAll('.ivu-select-item');
+                    const options = this.$els.options.querySelectorAll('.cm-select-item');
                     let hasVisibleOption = false;
                     for (let i = 0; i < options.length; i++) {
                         if (options[i].style.display !== 'none') {

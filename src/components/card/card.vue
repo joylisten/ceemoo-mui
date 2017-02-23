@@ -6,7 +6,7 @@
     </div>
 </template>
 <script>
-    const prefixCls = 'ivu-card';
+    const prefixCls = 'cm-card';
 
     export default {
         props: {

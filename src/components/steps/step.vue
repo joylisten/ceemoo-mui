@@ -16,8 +16,8 @@
 <script>
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-steps';
-    const iconPrefixCls = 'ivu-icon';
+    const prefixCls = 'cm-steps';
+    const iconPrefixCls = 'cm-icon';
 
     export default {
         props: {

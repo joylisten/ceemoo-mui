@@ -1,5 +1,5 @@
 <template>
-    <li :class="classes">{{ data.label }}<i v-if="data.children && data.children.length" class="ivu-icon ivu-icon-ios-arrow-right"></i></li>
+    <li :class="classes">{{ data.label }}<i v-if="data.children && data.children.length" class="cm-icon cm-icon-ios-arrow-right"></i></li>
 </template>
 <script>
     export default {

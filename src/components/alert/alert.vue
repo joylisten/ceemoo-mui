@@ -18,7 +18,7 @@
     import Icon from '../icon';
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-alert';
+    const prefixCls = 'cm-alert';
 
     export default {
         components: { Icon },

@@ -53,8 +53,8 @@
 
     import { initTimeDate, toDate, formatDate } from '../util';
 
-    const prefixCls = 'ivu-picker-panel';
-    const timePrefixCls = 'ivu-time-picker';
+    const prefixCls = 'cm-picker-panel';
+    const timePrefixCls = 'cm-time-picker';
 
     export default {
         mixins: [ Mixin, Locale ],

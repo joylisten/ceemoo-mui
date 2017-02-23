@@ -65,18 +65,18 @@
         }
     }
 
-    & .@{btnClassName}-icon-only .ivu-icon {
+    & .@{btnClassName}-icon-only .cm-icon {
         font-size: 14px;
         position: relative;
         top: 1px;
     }
 
-    &-large .@{btnClassName}-icon-only .ivu-icon{
+    &-large .@{btnClassName}-icon-only .cm-icon{
         font-size: 16px;
         top: 2px;
     }
 
-    &-small .@{btnClassName}-icon-only .ivu-icon{
+    &-small .@{btnClassName}-icon-only .cm-icon{
         font-size: 12px;
         top: 0;
     }
@@ -272,7 +272,7 @@
 }
 
 // Circle for Icon
-.btn-circle(@btnClassName: ivu-btn) {
+.btn-circle(@btnClassName: cm-btn) {
     border-radius: @btn-circle-size;
 
     &.@{btnClassName}-large{
@@ -300,7 +300,7 @@
 }
 
 // Group
-.btn-group(@btnClassName: ivu-btn) {
+.btn-group(@btnClassName: cm-btn) {
     .button-group-base(@btnClassName);
 
     .@{btnClassName} + .@{btnClassName},
@@ -350,7 +350,7 @@
     }
 }
 
-.btn-group-vertical(@btnClassName: ivu-btn) {
+.btn-group-vertical(@btnClassName: cm-btn) {
     .button-group-vertical-base(@btnClassName);
 
     .@{btnClassName} + .@{btnClassName},

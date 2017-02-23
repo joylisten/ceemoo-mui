@@ -7,7 +7,7 @@
 </template>
 
 <script>
-    const prefixCls = 'ivu-affix';
+    const prefixCls = 'cm-affix';
 
     function getScroll(target, top) {
         const prop = top ? 'pageYOffset' : 'pageXOffset';

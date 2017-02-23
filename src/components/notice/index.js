@@ -1,7 +1,7 @@
 import Notification from '../base/notification';
 
-const prefixCls = 'ivu-notice';
-const iconPrefixCls = 'ivu-icon';
+const prefixCls = 'cm-notice';
+const iconPrefixCls = 'cm-icon';
 const prefixKey = 'ivu_notice_key_';
 
 let top = 24;
@@ -68,7 +68,7 @@ function notice (type, options) {
         key: noticeKey.toString(),
         duration: duration,
         style: {},
-        transitionName: 'move-right',
+        transitionName: 'move-notice',
         content: content,
         onClose: onClose,
         closable: true

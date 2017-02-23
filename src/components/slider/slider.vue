@@ -49,7 +49,7 @@
     import Tooltip from '../../components/tooltip/tooltip.vue';
     import { getStyle } from '../../utils/assist';
 
-    const prefixCls = 'ivu-slider';
+    const prefixCls = 'cm-slider';
 
     export default {
         components: { InputNumber, Tooltip },

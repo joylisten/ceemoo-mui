@@ -22,7 +22,7 @@
     </label>
 </template>
 <script>
-    const prefixCls = 'ivu-checkbox';
+    const prefixCls = 'cm-checkbox';
 
     export default {
         props: {

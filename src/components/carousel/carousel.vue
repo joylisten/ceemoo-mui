@@ -26,7 +26,7 @@
     import Icon from '../icon/icon.vue';
     import { getStyle, oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-carousel';
+    const prefixCls = 'cm-carousel';
 
     export default {
         name: 'Carousel',
@@ -73,7 +73,7 @@
                 type: [String, Number],
                 default: 'auto',
                 validator (value) {
-                    return value === 'auto' || toString.call(value) === '[object Number]';
+                    return value === 'auto' || Object.prototype.toString.call(value) === '[object Number]';
                 }
             }
         },

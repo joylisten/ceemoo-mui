@@ -21,7 +21,7 @@
     import Options from '../time-mixins';
     import { deepCopy, scrollTop, firstUpperCase } from '../../../utils/assist';
 
-    const prefixCls = 'ivu-time-picker-cells';
+    const prefixCls = 'cm-time-picker-cells';
 
     export default {
         mixins: [Options],

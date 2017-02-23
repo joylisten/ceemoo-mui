@@ -1,5 +1,5 @@
 <template>
-    <ul class="ivu-dropdown-menu"><slot></slot></ul>
+    <ul class="cm-dropdown-menu"><slot></slot></ul>
 </template>
 <script>
     export default {};

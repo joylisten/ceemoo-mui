@@ -12,7 +12,7 @@
     </span>
 </template>
 <script>
-    const prefixCls = 'ivu-breadcrumb-item';
+    const prefixCls = 'cm-breadcrumb-item';
 
     export default {
         props: {

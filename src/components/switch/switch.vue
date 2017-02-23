@@ -9,7 +9,7 @@
 <script>
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-switch';
+    const prefixCls = 'cm-switch';
 
     export default {
         props: {

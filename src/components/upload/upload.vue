@@ -28,7 +28,7 @@
     import ajax from './ajax';
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-upload';
+    const prefixCls = 'cm-upload';
 
     export default {
         components: { UploadList },

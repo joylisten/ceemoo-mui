@@ -23,7 +23,7 @@
     import Icon from '../icon/icon.vue';
     import { oneOf, getStyle } from '../../utils/assist';
 
-    const prefixCls = 'ivu-tabs';
+    const prefixCls = 'cm-tabs';
 
     export default {
         components: { Icon },

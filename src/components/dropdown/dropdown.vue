@@ -13,7 +13,7 @@
     import clickoutside from '../../directives/clickoutside';
     import { oneOf } from '../../utils/assist';
 
-    const prefixCls = 'ivu-dropdown';
+    const prefixCls = 'cm-dropdown';
 
     export default {
         name: 'Dropdown',

@@ -11,7 +11,7 @@
 </template>
 <script>
     import Icon from '../icon/icon.vue';
-    const prefixCls = 'ivu-collapse';
+    const prefixCls = 'cm-collapse';
 
     export default {
         components: { Icon },

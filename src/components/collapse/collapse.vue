@@ -4,7 +4,7 @@
     </div>
 </template>
 <script>
-    const prefixCls = 'ivu-collapse';
+    const prefixCls = 'cm-collapse';
 
     export default {
         props: {

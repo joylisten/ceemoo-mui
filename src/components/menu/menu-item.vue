@@ -2,7 +2,7 @@
     <li :class="classes" @click.stop="handleClick"><slot></slot></li>
 </template>
 <script>
-    const prefixCls = 'ivu-menu';
+    const prefixCls = 'cm-menu';
 
     export default {
         name: 'MenuItem',

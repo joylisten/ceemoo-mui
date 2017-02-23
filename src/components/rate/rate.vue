@@ -15,7 +15,7 @@
 <script>
     import Locale from '../../mixins/locale';
 
-    const prefixCls = 'ivu-rate';
+    const prefixCls = 'cm-rate';
 
     export default {
         mixins: [ Locale ],

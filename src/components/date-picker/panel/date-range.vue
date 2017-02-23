@@ -143,8 +143,8 @@
     import Mixin from './mixin';
     import Locale from '../../../mixins/locale';
 
-    const prefixCls = 'ivu-picker-panel';
-    const datePrefixCls = 'ivu-date-picker';
+    const prefixCls = 'cm-picker-panel';
+    const datePrefixCls = 'cm-date-picker';
 
     export default {
         name: 'DatePicker',

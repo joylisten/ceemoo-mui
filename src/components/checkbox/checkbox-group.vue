@@ -4,7 +4,7 @@
     </div>
 </template>
 <script>
-    const prefixCls = 'ivu-checkbox-group';
+    const prefixCls = 'cm-checkbox-group';
 
     export default {
         name: 'checkboxGroup',

@@ -90,7 +90,7 @@
     import { t } from '../../locale';
     import Csv from '../../utils/csv';
     import ExportCsv from './export-csv';
-    const prefixCls = 'ivu-table';
+    const prefixCls = 'cm-table';
 
     export default {
         components: { tableHead, tableBody },
@@ -548,8 +548,16 @@
                 this.data.forEach((row, index) => {
                     const newRow = deepCopy(row);// todo 直接替换
                     newRow._isHover = false;
-                    newRow._isChecked = false;
-                    newRow._isHighlight = false;
+                    if (newRow._checked) {
+                        newRow._isChecked = newRow._checked;
+                    } else {
+                        newRow._isChecked = false;
+                    }
+                    if (newRow._highlight) {
+                        newRow._isHighlight = newRow._highlight;
+                    } else {
+                        newRow._isHighlight = false;
+                    }
                     data[index] = newRow;
                 });
                 return data;

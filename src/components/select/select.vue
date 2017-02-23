@@ -4,8 +4,8 @@
             :class="[prefixCls + '-selection']"
             v-el:reference
             @click="toggleMenu">
-            <div class="ivu-tag" v-for="item in selectedMultiple">
-                <span class="ivu-tag-text">{{ item.label }}</span>
+            <div class="cm-tag" v-for="item in selectedMultiple">
+                <span class="cm-tag-text">{{ item.label }}</span>
                 <Icon type="ios-close-empty" @click.stop="removeTag($index)"></Icon>
             </div>
             <span :class="[prefixCls + '-placeholder']" v-show="showPlaceholder && !filterable">{{ placeholder }}</span>
@@ -37,7 +37,7 @@
     import { oneOf, MutationObserver } from '../../utils/assist';
     import { t } from '../../locale';
 
-    const prefixCls = 'ivu-select';
+    const prefixCls = 'cm-select';
 
     export default {
         name: 'iSelect',
@@ -478,22 +478,25 @@
             setQuery (query) {
                 if (!this.filterable) return;
                 this.query = query;
+            },
+            modelToQuery() {
+                if (!this.multiple && this.filterable && this.model) {
+                    this.findChild((child) => {
+                        if (this.model === child.value) {
+                            if (child.label) {
+                                this.query = child.label;
+                            } else if (child.searchLabel) {
+                                this.query = child.searchLabel;
+                            } else {
+                                this.query = child.value;
+                            }
+                        }
+                    });
+                }
             }
         },
         compiled () {
-            if (!this.multiple && this.filterable && this.model) {
-                this.findChild((child) => {
-                    if (this.model === child.value) {
-                        if (child.label) {
-                            this.query = child.label;
-                        } else if (child.searchLabel) {
-                            this.query = child.searchLabel;
-                        } else {
-                            this.query = child.value;
-                        }
-                    }
-                });
-            }
+            this.modelToQuery();
 
             this.updateOptions(true);
             document.addEventListener('keydown', this.handleKeydown);
@@ -501,6 +504,7 @@
             // watch slot changed
             if (MutationObserver) {
                 this.observer = new MutationObserver(() => {
+                    this.modelToQuery();
                     this.slotChange();
                     this.updateOptions(true, true);
                 });
@@ -521,6 +525,7 @@
         },
         watch: {
             model () {
+                this.modelToQuery();
                 if (this.multiple) {
                     if (this.slotChangeDuration) {
                         this.slotChangeDuration = false;
