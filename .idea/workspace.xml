@@ -2,250 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6057fa6-2ab8-4a6b-9f35-07c2712fcb5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/button/button-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/button/button.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/layout/col.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/select/dropdown.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/icon/icon.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/button/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/icon/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/layout/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/menu/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/select/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/menu/menu-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/menu/menu-item.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/menu/menu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/select/option-group.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/select/option.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/layout/row.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/select/select.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cp/menu/submenu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.vue" afterPath="$PROJECT_DIR$/src/Main.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/README.md" afterPath="$PROJECT_DIR$/src/styles/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/iconfont/_ionicons-font.less" afterPath="$PROJECT_DIR$/src/styles/common/iconfont/_ionicons-font.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/iconfont/_ionicons-variables.less" afterPath="$PROJECT_DIR$/src/styles/common/iconfont/_ionicons-variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/affix.less" afterPath="$PROJECT_DIR$/src/styles/components/affix.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/affix/affix.vue" afterPath="$PROJECT_DIR$/src/components/affix/affix.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/alert.less" afterPath="$PROJECT_DIR$/src/styles/components/alert.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/alert/alert.vue" afterPath="$PROJECT_DIR$/src/components/alert/alert.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/article.less" afterPath="$PROJECT_DIR$/src/styles/common/article.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/assist.js" afterPath="$PROJECT_DIR$/src/utils/assist.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/back-top.less" afterPath="$PROJECT_DIR$/src/styles/components/back-top.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/back-top/back-top.vue" afterPath="$PROJECT_DIR$/src/components/back-top/back-top.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/badge.less" afterPath="$PROJECT_DIR$/src/styles/components/badge.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/badge/badge.vue" afterPath="$PROJECT_DIR$/src/components/badge/badge.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/base.less" afterPath="$PROJECT_DIR$/src/styles/common/base.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/breadcrumb/breadcrumb-item.vue" afterPath="$PROJECT_DIR$/src/components/breadcrumb/breadcrumb-item.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/breadcrumb.less" afterPath="$PROJECT_DIR$/src/styles/mixins/breadcrumb.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/breadcrumb/breadcrumb.vue" afterPath="$PROJECT_DIR$/src/components/breadcrumb/breadcrumb.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/button/button-group.vue" afterPath="$PROJECT_DIR$/src/components/button/button-group.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/button.less" afterPath="$PROJECT_DIR$/src/styles/components/button.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/button.less" afterPath="$PROJECT_DIR$/src/styles/mixins/button.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/button/button.vue" afterPath="$PROJECT_DIR$/src/components/button/button.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/calcTextareaHeight.js" afterPath="$PROJECT_DIR$/src/utils/calcTextareaHeight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/card.less" afterPath="$PROJECT_DIR$/src/styles/components/card.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/card/card.vue" afterPath="$PROJECT_DIR$/src/components/card/card.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/caret.less" afterPath="$PROJECT_DIR$/src/styles/mixins/caret.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/carousel/carousel-item.vue" afterPath="$PROJECT_DIR$/src/components/carousel/carousel-item.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/carousel.less" afterPath="$PROJECT_DIR$/src/styles/components/carousel.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/carousel/carousel.vue" afterPath="$PROJECT_DIR$/src/components/carousel/carousel.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/cascader.less" afterPath="$PROJECT_DIR$/src/styles/components/cascader.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/cascader/cascader.vue" afterPath="$PROJECT_DIR$/src/components/cascader/cascader.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/cascader/casitem.vue" afterPath="$PROJECT_DIR$/src/components/cascader/casitem.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/cascader/caspanel.vue" afterPath="$PROJECT_DIR$/src/components/cascader/caspanel.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/cell.vue" afterPath="$PROJECT_DIR$/src/components/table/cell.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/checkbox/checkbox-group.vue" afterPath="$PROJECT_DIR$/src/components/checkbox/checkbox-group.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/checkbox.less" afterPath="$PROJECT_DIR$/src/styles/components/checkbox.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/checkbox.less" afterPath="$PROJECT_DIR$/src/styles/mixins/checkbox.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/checkbox/checkbox.vue" afterPath="$PROJECT_DIR$/src/components/checkbox/checkbox.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/circle.less" afterPath="$PROJECT_DIR$/src/styles/components/circle.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/circle/circle.vue" afterPath="$PROJECT_DIR$/src/components/circle/circle.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/directives/clickoutside.js" afterPath="$PROJECT_DIR$/src/directives/clickoutside.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/close.less" afterPath="$PROJECT_DIR$/src/styles/mixins/close.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/layout/col.vue" afterPath="$PROJECT_DIR$/src/components/layout/col.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/collapse.less" afterPath="$PROJECT_DIR$/src/styles/components/collapse.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/collapse/collapse.vue" afterPath="$PROJECT_DIR$/src/components/collapse/collapse.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/common.less" afterPath="$PROJECT_DIR$/src/styles/mixins/common.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/modal/confirm.js" afterPath="$PROJECT_DIR$/src/components/modal/confirm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/base/confirm.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/base/confirm.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/content.less" afterPath="$PROJECT_DIR$/src/styles/mixins/content.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/copyright.less" afterPath="$PROJECT_DIR$/src/styles/copyright.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/csv.js" afterPath="$PROJECT_DIR$/src/utils/csv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/custom.less" afterPath="$PROJECT_DIR$/src/styles/custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/picker/date-picker.js" afterPath="$PROJECT_DIR$/src/components/date-picker/picker/date-picker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/date-picker.less" afterPath="$PROJECT_DIR$/src/styles/components/date-picker.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/panel/date-range.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/panel/date-range.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/base/date-table.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/base/date-table.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/panel/date.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/panel/date.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/dropdown/dropdown-item.vue" afterPath="$PROJECT_DIR$/src/components/dropdown/dropdown-item.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/dropdown/dropdown-menu.vue" afterPath="$PROJECT_DIR$/src/components/dropdown/dropdown-menu.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/dropdown.less" afterPath="$PROJECT_DIR$/src/styles/components/dropdown.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/dropdown/dropdown.vue" afterPath="$PROJECT_DIR$/src/components/dropdown/dropdown.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/select/dropdown.vue" afterPath="$PROJECT_DIR$/src/components/select/dropdown.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/animation/ease.less" afterPath="$PROJECT_DIR$/src/styles/animation/ease.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/locale/lang/en-US.js" afterPath="$PROJECT_DIR$/src/locale/lang/en-US.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/export-csv.js" afterPath="$PROJECT_DIR$/src/components/table/export-csv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/animation/fade.less" afterPath="$PROJECT_DIR$/src/styles/animation/fade.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/form/form-item.vue" afterPath="$PROJECT_DIR$/src/components/form/form-item.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/form.less" afterPath="$PROJECT_DIR$/src/styles/components/form.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/form/form.vue" afterPath="$PROJECT_DIR$/src/components/form/form.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/locale/format.js" afterPath="$PROJECT_DIR$/src/locale/format.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/icon/icon.vue" afterPath="$PROJECT_DIR$/src/components/icon/icon.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/index.js" afterPath="$PROJECT_DIR$/config/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/affix/index.js" afterPath="$PROJECT_DIR$/src/components/affix/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/alert/index.js" afterPath="$PROJECT_DIR$/src/components/alert/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/back-top/index.js" afterPath="$PROJECT_DIR$/src/components/back-top/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/badge/index.js" afterPath="$PROJECT_DIR$/src/components/badge/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/base/notification/index.js" afterPath="$PROJECT_DIR$/src/components/base/notification/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/breadcrumb/index.js" afterPath="$PROJECT_DIR$/src/components/breadcrumb/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/button/index.js" afterPath="$PROJECT_DIR$/src/components/button/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/card/index.js" afterPath="$PROJECT_DIR$/src/components/card/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/carousel/index.js" afterPath="$PROJECT_DIR$/src/components/carousel/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/cascader/index.js" afterPath="$PROJECT_DIR$/src/components/cascader/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/checkbox/index.js" afterPath="$PROJECT_DIR$/src/components/checkbox/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/circle/index.js" afterPath="$PROJECT_DIR$/src/components/circle/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/collapse/index.js" afterPath="$PROJECT_DIR$/src/components/collapse/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/index.js" afterPath="$PROJECT_DIR$/src/components/date-picker/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/dropdown/index.js" afterPath="$PROJECT_DIR$/src/components/dropdown/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/form/index.js" afterPath="$PROJECT_DIR$/src/components/form/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/icon/index.js" afterPath="$PROJECT_DIR$/src/components/icon/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/input/index.js" afterPath="$PROJECT_DIR$/src/components/input/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/input-number/index.js" afterPath="$PROJECT_DIR$/src/components/input-number/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/layout/index.js" afterPath="$PROJECT_DIR$/src/components/layout/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/loading-bar/index.js" afterPath="$PROJECT_DIR$/src/components/loading-bar/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/menu/index.js" afterPath="$PROJECT_DIR$/src/components/menu/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/message/index.js" afterPath="$PROJECT_DIR$/src/components/message/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/modal/index.js" afterPath="$PROJECT_DIR$/src/components/modal/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/notice/index.js" afterPath="$PROJECT_DIR$/src/components/notice/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/page/index.js" afterPath="$PROJECT_DIR$/src/components/page/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/poptip/index.js" afterPath="$PROJECT_DIR$/src/components/poptip/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/progress/index.js" afterPath="$PROJECT_DIR$/src/components/progress/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/radio/index.js" afterPath="$PROJECT_DIR$/src/components/radio/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/rate/index.js" afterPath="$PROJECT_DIR$/src/components/rate/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/select/index.js" afterPath="$PROJECT_DIR$/src/components/select/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/slider/index.js" afterPath="$PROJECT_DIR$/src/components/slider/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/spin/index.js" afterPath="$PROJECT_DIR$/src/components/spin/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/steps/index.js" afterPath="$PROJECT_DIR$/src/components/steps/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/switch/index.js" afterPath="$PROJECT_DIR$/src/components/switch/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/index.js" afterPath="$PROJECT_DIR$/src/components/table/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tabs/index.js" afterPath="$PROJECT_DIR$/src/components/tabs/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tag/index.js" afterPath="$PROJECT_DIR$/src/components/tag/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/time-picker/index.js" afterPath="$PROJECT_DIR$/src/components/time-picker/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/timeline/index.js" afterPath="$PROJECT_DIR$/src/components/timeline/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tooltip/index.js" afterPath="$PROJECT_DIR$/src/components/tooltip/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/transfer/index.js" afterPath="$PROJECT_DIR$/src/components/transfer/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tree/index.js" afterPath="$PROJECT_DIR$/src/components/tree/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/upload/index.js" afterPath="$PROJECT_DIR$/src/components/upload/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/locale/index.js" afterPath="$PROJECT_DIR$/src/locale/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/index.less" afterPath="$PROJECT_DIR$/src/styles/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/animation/index.less" afterPath="$PROJECT_DIR$/src/styles/animation/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/index.less" afterPath="$PROJECT_DIR$/src/styles/common/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/index.less" afterPath="$PROJECT_DIR$/src/styles/components/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/index.less" afterPath="$PROJECT_DIR$/src/styles/mixins/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/input-number.less" afterPath="$PROJECT_DIR$/src/styles/components/input-number.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/input-number/input-number.vue" afterPath="$PROJECT_DIR$/src/components/input-number/input-number.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/input.less" afterPath="$PROJECT_DIR$/src/styles/components/input.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/input.less" afterPath="$PROJECT_DIR$/src/styles/mixins/input.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/input/input.vue" afterPath="$PROJECT_DIR$/src/components/input/input.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/layout.less" afterPath="$PROJECT_DIR$/src/styles/common/layout.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/layout.less" afterPath="$PROJECT_DIR$/src/styles/mixins/layout.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/transfer/list.vue" afterPath="$PROJECT_DIR$/src/components/transfer/list.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/loading-bar/loading-bar.js" afterPath="$PROJECT_DIR$/src/components/loading-bar/loading-bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/loading-bar.less" afterPath="$PROJECT_DIR$/src/styles/components/loading-bar.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/loading-bar/loading-bar.vue" afterPath="$PROJECT_DIR$/src/components/loading-bar/loading-bar.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/loading.less" afterPath="$PROJECT_DIR$/src/styles/mixins/loading.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mixins/locale.js" afterPath="$PROJECT_DIR$/src/mixins/locale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/mask.less" afterPath="$PROJECT_DIR$/src/styles/mixins/mask.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/menu/menu-group.vue" afterPath="$PROJECT_DIR$/src/components/menu/menu-group.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/menu/menu-item.vue" afterPath="$PROJECT_DIR$/src/components/menu/menu-item.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/menu.less" afterPath="$PROJECT_DIR$/src/styles/components/menu.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/menu/menu.vue" afterPath="$PROJECT_DIR$/src/components/menu/menu.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/message.less" afterPath="$PROJECT_DIR$/src/styles/components/message.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/panel/mixin.js" afterPath="$PROJECT_DIR$/src/components/date-picker/panel/mixin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/mixin.js" afterPath="$PROJECT_DIR$/src/components/table/mixin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/modal.less" afterPath="$PROJECT_DIR$/src/styles/components/modal.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/modal/modal.vue" afterPath="$PROJECT_DIR$/src/components/modal/modal.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/base/month-table.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/base/month-table.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/animation/move.less" afterPath="$PROJECT_DIR$/src/styles/animation/move.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common/normalize.less" afterPath="$PROJECT_DIR$/src/styles/common/normalize.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/notice.less" afterPath="$PROJECT_DIR$/src/styles/components/notice.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/base/notification/notice.vue" afterPath="$PROJECT_DIR$/src/components/base/notification/notice.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/base/notification/notification.vue" afterPath="$PROJECT_DIR$/src/components/base/notification/notification.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/transfer/operation.vue" afterPath="$PROJECT_DIR$/src/components/transfer/operation.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/select/option-group.vue" afterPath="$PROJECT_DIR$/src/components/select/option-group.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/select/option.vue" afterPath="$PROJECT_DIR$/src/components/select/option.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/page/options.vue" afterPath="$PROJECT_DIR$/src/components/page/options.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/page.less" afterPath="$PROJECT_DIR$/src/styles/components/page.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/page/page.vue" afterPath="$PROJECT_DIR$/src/components/page/page.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tabs/pane.vue" afterPath="$PROJECT_DIR$/src/components/tabs/pane.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/collapse/panel.vue" afterPath="$PROJECT_DIR$/src/components/collapse/panel.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/picker.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/picker.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/base/popper.js" afterPath="$PROJECT_DIR$/src/components/base/popper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/poptip.less" afterPath="$PROJECT_DIR$/src/styles/components/poptip.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/poptip/poptip.vue" afterPath="$PROJECT_DIR$/src/components/poptip/poptip.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/progress.less" afterPath="$PROJECT_DIR$/src/styles/components/progress.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/progress/progress.vue" afterPath="$PROJECT_DIR$/src/components/progress/progress.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/radio/radio-group.vue" afterPath="$PROJECT_DIR$/src/components/radio/radio-group.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/radio.less" afterPath="$PROJECT_DIR$/src/styles/components/radio.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/radio/radio.vue" afterPath="$PROJECT_DIR$/src/components/radio/radio.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/rate.less" afterPath="$PROJECT_DIR$/src/styles/components/rate.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/rate/rate.vue" afterPath="$PROJECT_DIR$/src/components/rate/rate.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/layout/row.vue" afterPath="$PROJECT_DIR$/src/components/layout/row.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/transfer/search.vue" afterPath="$PROJECT_DIR$/src/components/transfer/search.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/select-dropdown.less" afterPath="$PROJECT_DIR$/src/styles/components/select-dropdown.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/select.less" afterPath="$PROJECT_DIR$/src/styles/components/select.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/select.less" afterPath="$PROJECT_DIR$/src/styles/mixins/select.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/select/select.vue" afterPath="$PROJECT_DIR$/src/components/select/select.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/size.less" afterPath="$PROJECT_DIR$/src/styles/mixins/size.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/animation/slide.less" afterPath="$PROJECT_DIR$/src/styles/animation/slide.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/slider.less" afterPath="$PROJECT_DIR$/src/styles/components/slider.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/slider/slider.vue" afterPath="$PROJECT_DIR$/src/components/slider/slider.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/spin.less" afterPath="$PROJECT_DIR$/src/styles/components/spin.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/spin/spin.vue" afterPath="$PROJECT_DIR$/src/components/spin/spin.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/steps/step.vue" afterPath="$PROJECT_DIR$/src/components/steps/step.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/steps.less" afterPath="$PROJECT_DIR$/src/styles/components/steps.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/steps/steps.vue" afterPath="$PROJECT_DIR$/src/components/steps/steps.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/menu/submenu.vue" afterPath="$PROJECT_DIR$/src/components/menu/submenu.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/switch.less" afterPath="$PROJECT_DIR$/src/styles/components/switch.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/switch/switch.vue" afterPath="$PROJECT_DIR$/src/components/switch/switch.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/table-body.vue" afterPath="$PROJECT_DIR$/src/components/table/table-body.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/table-head.vue" afterPath="$PROJECT_DIR$/src/components/table/table-head.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/table.less" afterPath="$PROJECT_DIR$/src/styles/components/table.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/table/table.vue" afterPath="$PROJECT_DIR$/src/components/table/table.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/tabs.less" afterPath="$PROJECT_DIR$/src/styles/components/tabs.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tabs/tabs.vue" afterPath="$PROJECT_DIR$/src/components/tabs/tabs.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/tag.less" afterPath="$PROJECT_DIR$/src/styles/components/tag.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tag/tag.vue" afterPath="$PROJECT_DIR$/src/components/tag/tag.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/time-mixins.js" afterPath="$PROJECT_DIR$/src/components/date-picker/time-mixins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/picker/time-picker.js" afterPath="$PROJECT_DIR$/src/components/date-picker/picker/time-picker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/time-picker.less" afterPath="$PROJECT_DIR$/src/styles/components/time-picker.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/panel/time-range.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/panel/time-range.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/base/time-spinner.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/base/time-spinner.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/panel/time.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/panel/time.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/timeline/timeline-item.vue" afterPath="$PROJECT_DIR$/src/components/timeline/timeline-item.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/timeline.less" afterPath="$PROJECT_DIR$/src/styles/components/timeline.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/timeline/timeline.vue" afterPath="$PROJECT_DIR$/src/components/timeline/timeline.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/tooltip.less" afterPath="$PROJECT_DIR$/src/styles/components/tooltip.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/mixins/tooltip.less" afterPath="$PROJECT_DIR$/src/styles/mixins/tooltip.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tooltip/tooltip.vue" afterPath="$PROJECT_DIR$/src/components/tooltip/tooltip.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/transfer.less" afterPath="$PROJECT_DIR$/src/styles/components/transfer.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/transfer/transfer.vue" afterPath="$PROJECT_DIR$/src/components/transfer/transfer.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/tree.less" afterPath="$PROJECT_DIR$/src/styles/components/tree.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tree/tree.vue" afterPath="$PROJECT_DIR$/src/components/tree/tree.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/upload/upload-list.vue" afterPath="$PROJECT_DIR$/src/components/upload/upload-list.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/upload.less" afterPath="$PROJECT_DIR$/src/styles/components/upload.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/upload/upload.vue" afterPath="$PROJECT_DIR$/src/components/upload/upload.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/util.js" afterPath="$PROJECT_DIR$/src/components/date-picker/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/date-picker/base/year-table.vue" afterPath="$PROJECT_DIR$/src/components/date-picker/base/year-table.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/locale/lang/zh-CN.js" afterPath="$PROJECT_DIR$/src/locale/lang/zh-CN.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/locale/lang/zh-TW.js" afterPath="$PROJECT_DIR$/src/locale/lang/zh-TW.js" />
     </list>
     <ignored path="cmvue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -724,18 +481,26 @@
       <option name="number" value="Default" />
       <updated>1487040352120</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1487860895984</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487860895984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="26" y="23" width="1414" height="877" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -759,6 +524,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -946,6 +715,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -953,6 +723,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -960,6 +731,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -977,6 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6572668">
           <caret line="0" column="74355" selection-start-line="0" selection-start-column="74355" selection-end-line="0" selection-end-column="74355" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
